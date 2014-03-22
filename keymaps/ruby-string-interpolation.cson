@@ -10,3 +10,4 @@
 '.editor':
   '#': 'ruby-string-interpolation:insert'
   'alt-3': 'ruby-string-interpolation:insert'
+  '§': 'ruby-string-interpolation:insert'
